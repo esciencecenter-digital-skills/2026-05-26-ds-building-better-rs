@@ -176,7 +176,7 @@ An exception to this might be when you inherit a project that include a large am
 
 Create a new empty repository on GitHub: no license, no README, etc. This will show the Quick Setup instructions by GitHub, and will let us directly push our local repository to GitHub.
 
-![](https://codimd.carpentries.org/uploads/upload_24cef8d4b6a07d4a91cceb887db82fec.png)
+![](screenshots/upload_24cef8d4b6a07d4a91cceb887db82fec.png)
 
 :::danger
 You cannot push an existing repository to a newly created GitHub repository that already has some files in it. If you want to add a README or license to your existing local repository, you must do so after creating the repository.
